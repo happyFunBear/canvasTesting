@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Poker",
+    "iconUrl": "https://zynga-platform-s3.s3.amazonaws.com/assets/game-icons/1.png"
+  },
+  {
+    "id": 63,
+    "name": "FarmVille",
+    "iconUrl": "https://zynga-platform-s3.s3.amazonaws.com/assets/game-icons/63.png"
+  },
+  {
+    "name": "WWF",
+    "id": 91,
+    "iconUrl": "https://zynga-platform-s3.s3.amazonaws.com/assets/game-icons/91.png"
+  },
+  {
+    "name": "Mafia Wars",
+    "id": 43,
+    "iconUrl": "https://zynga-platform-s3.s3.amazonaws.com/assets/game-icons/43.png"
+  }
+]
