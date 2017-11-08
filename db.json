@@ -28,5 +28,8 @@
     "lastName": "Huge",
     "emailAddress": "dhuge@test.com",
     "emailVerififed": false
+  },
+  "auth": {
+    "authenticated": true
   }
 }
