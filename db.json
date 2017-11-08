@@ -30,8 +30,8 @@
     "emailVerififed": false
   },
   "auth": {
-    "app_id": 1111,
-		"player_id": "123456789",
-		"compliance_pbr_token": "this_is_a_gdpr_token"
+    "app_id": 63,
+    "player_id": "123456789",
+    "compliance_pbr_token": "this_is_a_gdpr_token"
   }
 }
