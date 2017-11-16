@@ -19,6 +19,11 @@
       "name": "Mafia Wars",
       "app_id": 43,
       "icon_url": "https://zynga-platform-s3.s3.amazonaws.com/assets/game-icons/43.png"
+    },
+    {
+      "name": "Bad Game",
+      "app_id": 444,
+      'icon_url": "https://zynga-platform-s3.s3.amazonaws.com/assets/game-icons/44443.png"
     }
   ],
   "user": {
