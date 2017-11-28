@@ -53,16 +53,5 @@
   },
   "deleteComplete": {
     "id": "request_id"
-  },
-  "getRequest": {
-    "id": "4321",
-    "app_id": 1,
-    "player_id": 12345,
-    "compliance_type": "delete",
-    "type": "this",
-    "state/status": "what",
-    "created_at": 234234432,
-    "locale": "en_US",
-    "affected_ids": [ 123, 22232, 222]
   }
 }
