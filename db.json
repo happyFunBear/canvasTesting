@@ -38,5 +38,31 @@
     "app_id": 63,
     "player_id": "123456789",
     "compliance_pbr_token": "this_is_a_gdpr_token"
+  },
+  "deleteStart": {
+    "fanout_zids": [
+      {
+        "app_id": 63,
+        "zid": 12345
+      },
+      {
+        "app_id": 43,
+        "zid": 54321
+      }
+    ]
+  },
+  "deleteComplete": {
+    "id": "request_id"
+  },
+  "getRequest": {
+    "id": "4321",
+    "app_id": 1,
+    "player_id": 12345,
+    "compliance_type": "delete",
+    "type": "this",
+    "state/status": "what",
+    "created_at": 234234432,
+    "locale": "en_US",
+    "affected_ids": [ 123, 22232, 222]
   }
 }
