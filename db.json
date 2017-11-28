@@ -29,7 +29,8 @@
   "user": {
     "player_id": "123456789",
     "app_id": 63,
-    "name": "Darren Hugg",
+    "last_name": "Hugg",
+    "first_name": "Darren",
     "locale": "es_ES",
     "email": "dhuge@test.com",
     "email_verified": false
